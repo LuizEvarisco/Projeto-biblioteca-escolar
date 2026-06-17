@@ -88,17 +88,6 @@ Todos os endpoints respondem em **JSON**.
 
 ---
 
-## Como Executar no Replit
-
-1. Certifique-se de que o módulo **PHP 8.2** está instalado no Replit.
-2. Execute o servidor embutido do PHP:
-   ```bash
-   php -S 0.0.0.0:5001 -t /caminho/para/pasta/biblioteca
-   ```
-3. Acesse o sistema pelo navegador na porta configurada.
-4. O arquivo `banco.db` é criado automaticamente na primeira requisição.
-
----
 
 ## Requisitos Técnicos Atendidos
 
